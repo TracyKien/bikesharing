@@ -1,5 +1,5 @@
 # Overview
-Explain the purpose of this analysis.
+The purpose of this analysis is to compile enough data to support my friend Kate and my decision to start a bike-sharing program in Des Moines, Iowa. I will need to create a proposal to present to an angel investor who might be interested in providing seed funding to help start the program.
 
 https://public.tableau.com/app/profile/tracy.kien
 
