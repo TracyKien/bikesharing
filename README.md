@@ -6,7 +6,16 @@ The following link will take you to my Tableau dashbboard where all of my data v
 https://public.tableau.com/app/profile/tracy.kien
 
 # Results
-Using the visualizations you have in your Tableau Story, describe the results of each visualization underneath the image.
+![This is an image](https://github.com/TracyKien/bikesharing/blob/main/images/NYC%20Citibike%20Data.png?raw=true)
+
+
+
+
+
 
 # Summary
 Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
+
+![This is an image](https://github.com/TracyKien/bikesharing/blob/main/images/August%20Peak%20Hours.png?raw=true)
+
+![This is an image](https://github.com/TracyKien/bikesharing/blob/main/images/Gender%20Breakdown.png?raw=true)
